@@ -1,5 +1,6 @@
 # Snake
 ***** EXECUTION *****
+
 The execution is java SnakeGame. Once in the game, press "p" to play. To 
 move the snake, use the "W", "A", "S", "D" keys to move up, left, down, 
 or right. Try to get the highest score possible by eating food. Sometimes, 
@@ -11,6 +12,7 @@ mode, press "n". When the game ends, press "r" to replay, and you will be
 guided back to the start page, where it will display your highest score.
 
 ***** CODE *****
+
 Board.java - A class representing the board in which the Snake game 
 takes place. Keeps track of the game's Snake and receives the player's 
 input to control the snake.
@@ -29,6 +31,7 @@ the snake collides with the wall, itself, or an obstacle. Player can choose
 to restart the game through user input.
 
 ***** FEATURES *****
+
 Hard mode - switch to hard mode during game play by pressing "h" and 
 switch back to normal mode by pressing "n"
 
